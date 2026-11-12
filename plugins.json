@@ -10,7 +10,7 @@
       "featured": true,
       "category": "ecommerce",
       "tags": ["ecommerce", "shopping-cart", "products", "orders", "payments"],
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/logo.png",
       "screenshots": [],
       "details": {
         "description": "Full e-commerce plugin for RJ Nexus. Products, cart, orders, payments and more.",
@@ -36,7 +36,7 @@
       }
     },
     {
-      "repo": "rj-nexus/form-builder",
+      "repo": "mr-ruhid/rj-plugin-form-builder",
       "name": "Form Builder",
       "author": "rj-nexus",
       "version": "1.1.1",
@@ -44,7 +44,7 @@
       "featured": false,
       "category": "forms",
       "tags": ["forms", "builder", "submissions"],
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/mr-ruhid/rj-plugin-form-builder/main/logo.png",
       "screenshots": [],
       "details": {
         "description": "Create, manage, and embed forms. Includes RJBuilder widget and admin panel.",
@@ -66,7 +66,7 @@
       },
       "development": {
         "requires": "RJ Nexus >= 1.8.0, PHP >= 8.2",
-        "docs": "https://github.com/rj-nexus/form-builder#readme"
+        "docs": "https://github.com/mr-ruhid/rj-plugin-form-builder#readme"
       }
     }
   ]
