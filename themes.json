@@ -2,6 +2,42 @@
   "$schema": "https://raw.githubusercontent.com/rj-nexus/rj_cms_theme_and_plugin_list/main/schema/theme.schema.json",
   "themes": [
     {
+      "repo": "rj-nexus/spotlight",
+      "name": "Spotlight",
+      "author": "rj-nexus",
+      "version": "1.0.1",
+      "verified": true,
+      "featured": true,
+      "category": "ai-saas",
+      "tags": ["dark", "glassmorphism", "ai", "saas", "premium"],
+      "logo": "https://raw.githubusercontent.com/rj-nexus/spotlight/main/banner.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/rj-nexus/spotlight/main/screenshot-1.png",
+        "https://raw.githubusercontent.com/rj-nexus/spotlight/main/screenshot-2.png"
+      ],
+      "details": {
+        "description": "A dark, modern, builder-first theme designed for SaaS platforms, AI products, and digital agencies.",
+        "features": [
+          "20+ custom premium widgets",
+          "Animated glassmorphism UI",
+          "Dark mode map and contact forms",
+          "Auto-import starter content on activation"
+        ]
+      },
+      "installation": {
+        "steps": [
+          "Download the ZIP from the releases page",
+          "Go to Admin → Appearance → Themes",
+          "Upload the ZIP file",
+          "Click Activate"
+        ]
+      },
+      "development": {
+        "requires": "RJ Nexus >= 1.8.6",
+        "docs": "https://github.com/rj-nexus/spotlight#readme"
+      }
+    },
+    {
       "repo": "mr-ruhid/rj-theme-default",
       "name": "RJ Default",
       "author": "mr-ruhid",
@@ -10,8 +46,10 @@
       "featured": false,
       "category": "general",
       "tags": ["minimal", "blog"],
-      "logo": "",
-      "screenshots": [],
+      "logo": "https://raw.githubusercontent.com/mr-ruhid/rj-theme-default/main/banner.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/mr-ruhid/rj-theme-default/main/screenshot-1.png"
+      ],
       "details": {
         "description": "The default RJ Nexus theme. Clean, minimal and fast, built for blogs and content sites.",
         "features": [
@@ -43,8 +81,10 @@
       "featured": true,
       "category": "general",
       "tags": ["minimal", "shop"],
-      "logo": "",
-      "screenshots": [],
+      "logo": "https://raw.githubusercontent.com/rj-nexus/velvet-aura/main/banner.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/rj-nexus/velvet-aura/main/screenshot-1.png"
+      ],
       "details": {
         "description": "A premium theme with elegant typography, custom widgets and full RJBuilder support.",
         "features": [
