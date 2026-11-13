@@ -10,7 +10,7 @@
       "featured": true,
       "category": "ai-saas",
       "tags": ["dark", "glassmorphism", "ai", "saas", "premium"],
-      "logo": "https://raw.githubusercontent.com/rj-nexus/spotlight/main/banner.png",
+      "logo": "https://raw.githubusercontent.com/rj-nexus/spotlight/main/screenshot.png",
       "screenshots": [
         "https://raw.githubusercontent.com/rj-nexus/spotlight/main/screenshot-1.png",
         "https://raw.githubusercontent.com/rj-nexus/spotlight/main/screenshot-2.png"
@@ -46,7 +46,7 @@
       "featured": false,
       "category": "general",
       "tags": ["minimal", "blog"],
-      "logo": "https://raw.githubusercontent.com/mr-ruhid/rj-theme-default/main/banner.png",
+      "logo": "https://raw.githubusercontent.com/mr-ruhid/rj-theme-default/main/screenshot.png",
       "screenshots": [
         "https://raw.githubusercontent.com/mr-ruhid/rj-theme-default/main/screenshot-1.png"
       ],
@@ -81,7 +81,7 @@
       "featured": true,
       "category": "general",
       "tags": ["minimal", "shop"],
-      "logo": "https://raw.githubusercontent.com/rj-nexus/velvet-aura/main/banner.png",
+      "logo": "https://raw.githubusercontent.com/rj-nexus/velvet-aura/main/screenshot.png",
       "screenshots": [
         "https://raw.githubusercontent.com/rj-nexus/velvet-aura/main/screenshot-1.png"
       ],
