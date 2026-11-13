@@ -69,7 +69,7 @@
       },
       "development": {
         "requires": "RJ Nexus >= 1.8.0",
-        "docs": "https://github.com/mr-ruhid/rj-theme-default#readme"
+        "docs": "https://github.com/rj-nexus/rj-default-theme"
       }
     },
     {
