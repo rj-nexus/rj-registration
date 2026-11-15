@@ -46,7 +46,7 @@
       "featured": false,
       "category": "general",
       "tags": ["minimal", "blog"],
-      "logo": "https://github.com/rj-nexus/rj-default-theme/blob/main/screenshot.png",
+      "logo": "https://raw.githubusercontent.com/rj-nexus/rj-default-theme/refs/heads/main/screenshot.png",
       "screenshots": [
         "https://raw.githubusercontent.com/mr-ruhid/rj-theme-default/main/screenshot-1.png"
       ],
